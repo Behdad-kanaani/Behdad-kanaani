@@ -28,13 +28,11 @@ In addition to my technical expertise, I have earned **national recognition in w
 
 A system for detecting and analyzing emotional states based on body posture using computer vision and deep learning. This project includes data preprocessing, CNN model training for emotion recognition, and performance evaluation.
 
-![EmotionPose Project](https://upload.wikimedia.org/wikipedia/commons/3/31/Computer_vision_image.jpg)
-
 #### 2. [Reinforcement-Learning-Grid-Navigation](https://github.com/Behdad-kanaani/Reinforcement-Learning-Grid-Navigation)
 
 Implementation of reinforcement learning algorithms for grid-based navigation. This project involves environment design, Q-learning and Deep Q-Network algorithm implementation, and model performance evaluation.
 
-![Reinforcement Learning Project](https://upload.wikimedia.org/wikipedia/commons/f/fb/Reinforcement_learning_example.jpg)
+![Reinforcement Learning Project]([https://upload.wikimedia.org/wikipedia/commons/f/fb/Reinforcement_learning_example.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/250px-Reinforcement_learning_diagram.svg.png))
 
 ---
 
@@ -47,7 +45,7 @@ My goal is to pursue higher education in Computer Science and Artificial Intelli
 * **Intelligent Systems & Autonomous Technologies**
 * **Big Data Analytics & Scalable Machine Learning**
 
-![MIT Image](https://upload.wikimedia.org/wikipedia/commons/8/8d/Massachusetts_Institute_of_Technology_logo.svg)
+![MIT Image]([https://upload.wikimedia.org/wikipedia/commons/8/8d/Massachusetts_Institute_of_Technology_logo.svg](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MIT_Seal.svg/250px-MIT_Seal.svg.png))
 
 ---
 
