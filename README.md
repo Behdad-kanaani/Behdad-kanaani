@@ -1,8 +1,5 @@
 ## Behdad Kanani – Digital Alchemist & AI Enthusiast
 
-![Behdad's Portrait](https://upload.wikimedia.org/wikipedia/commons/5/53/Photo_of_an_Asian_developer.jpg)
-[GitHub Profile](https://github.com/Behdad-kanaani)
-
 ### 👤 About Me
 
 Hello! I’m Behdad Kanani, an 18-year-old developer from Iran with a deep passion for artificial intelligence, machine learning, and software development. As a "Digital Alchemist," I am dedicated to turning abstract ideas into functional, impactful solutions. My areas of expertise include:
