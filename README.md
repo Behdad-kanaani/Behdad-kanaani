@@ -32,7 +32,8 @@ A system for detecting and analyzing emotional states based on body posture usin
 
 Implementation of reinforcement learning algorithms for grid-based navigation. This project involves environment design, Q-learning and Deep Q-Network algorithm implementation, and model performance evaluation.
 
-![Reinforcement Learning Project]([https://upload.wikimedia.org/wikipedia/commons/f/fb/Reinforcement_learning_example.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/250px-Reinforcement_learning_diagram.svg.png))
+![Reinforcement Learning Project](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Reinforcement_learning_diagram.svg/250px-Reinforcement_learning_diagram.svg.png)
+
 
 ---
 
@@ -45,7 +46,7 @@ My goal is to pursue higher education in Computer Science and Artificial Intelli
 * **Intelligent Systems & Autonomous Technologies**
 * **Big Data Analytics & Scalable Machine Learning**
 
-![MIT Image]([https://upload.wikimedia.org/wikipedia/commons/8/8d/Massachusetts_Institute_of_Technology_logo.svg](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MIT_Seal.svg/250px-MIT_Seal.svg.png))
+![MIT Image]((https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MIT_Seal.svg/250px-MIT_Seal.svg.png))
 
 ---
 
