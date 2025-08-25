@@ -1,57 +1,80 @@
-## Behdad Kanani – Digital Alchemist & AI Enthusiast
+# 👋 Hi, I'm Behdad Kanani!  
+## Digital Alchemist & AI Enthusiast  
+
+![Profile Banner](https://img.shields.io/badge/Behdad_Kanani-Digital_Alchemist-blueviolet?style=for-the-badge&logo=appveyor)  
+
+---
 
 ### 👤 About Me
 
-Hello! I’m Behdad Kanani, an 18-year-old developer from Iran with a deep passion for artificial intelligence, machine learning, and software development. As a "Digital Alchemist," I am dedicated to turning abstract ideas into functional, impactful solutions. My areas of expertise include:
+I'm an **18-year-old developer from Iran** passionate about AI, Machine Learning, and Software Development. As a "Digital Alchemist," I transform abstract ideas into functional, impactful solutions.  
 
-* **Machine Learning & Reinforcement Learning**: Designing and implementing machine learning and reinforcement learning algorithms to solve complex problems.
-* **Computer Vision & Image Processing**: Using advanced models to analyze and interpret visual data.
-* **Software Development**: Designing and building scalable, efficient software systems.
-* **Data Analysis & Mathematical Modeling**: Applying statistical and mathematical techniques to analyze data and model systems.
+- 🧠 **Machine Learning & Reinforcement Learning**: Designing & implementing ML & RL algorithms.  
+- 👁️ **Computer Vision & Image Processing**: Analyzing and interpreting visual data.  
+- 💻 **Software Development**: Building scalable, efficient software systems.  
+- 📊 **Data Analysis & Mathematical Modeling**: Applying statistics and math to solve problems.  
 
-In addition to my technical expertise, I have earned **national recognition in web development** in Iran, where I’ve been awarded several honors for my contributions to the field.
+🏆 **National recognition in web development** for contributions in Iran.  
 
 ---
 
 ### 🛠 Skills & Technologies
 
-* **Programming Languages**: Python, JavaScript, PHP, Java
-* **Frameworks & Libraries**: TensorFlow, PyTorch, OpenCV, NumPy, Pandas, React, Next.js
-* **Tools & Platforms**: Docker, Git, GitHub, Jupyter Notebooks, VS Code
-* **Concepts & Algorithms**: Machine Learning, Reinforcement Learning, Image Processing, Computer Vision, Distributed Systems
+#### Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+
+#### Frameworks & Libraries  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)   
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+
+#### Tools & Platforms  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
 ### 📂 Selected Projects
 
-#### 1. [EmotionPose](https://github.com/Behdad-kanaani/EmotionPose)
+#### [EmotionPose](https://github.com/Behdad-kanaani/EmotionPose)  
+Detects and analyzes emotional states from body posture using **CNNs** and **Computer Vision**.  
 
-A system for detecting and analyzing emotional states based on body posture using computer vision and deep learning. This project includes data preprocessing, CNN model training for emotion recognition, and performance evaluation.
-
-#### 2. [Reinforcement-Learning-Grid-Navigation](https://github.com/Behdad-kanaani/Reinforcement-Learning-Grid-Navigation)
-
-Implementation of reinforcement learning algorithms for grid-based navigation. This project involves environment design, Q-learning and Deep Q-Network algorithm implementation, and model performance evaluation.
-
+#### [Reinforcement-Learning-Grid-Navigation](https://github.com/Behdad-kanaani/Reinforcement-Learning-Grid-Navigation)  
+Grid-based navigation with **Q-learning** and **Deep Q-Networks**.  
 
 ---
 
-### 🎯 Future Goals
+### 🎯 Goals
 
-My goal is to pursue higher education in Computer Science and Artificial Intelligence at top universities such as MIT. I am passionate about research and development in the following areas:
-
-* **Deep Learning & Neural Networks**
-* **Ethical & Interpretable AI**
-* **Intelligent Systems & Autonomous Technologies**
-* **Big Data Analytics & Scalable Machine Learning**
+- 🔹 Deep Learning & Neural Networks  
+- 🔹 Ethical & Interpretable AI  
+- 🔹 Intelligent Systems & Autonomous Technologies  
+- 🔹 Big Data Analytics & Scalable Machine Learning  
 
 ---
 
 ### 🏅 Achievements
 
-* **National Recognition in Web Development**: I have earned multiple national awards in Iran for my contributions to the web development field, showcasing my technical expertise and passion for innovation.
+    🥇 National Recognition in Web Development – Multiple national awards in Iran:
+
+    1st place in Kharazmi Festival for Website Design
+
+    3rd place in National Technical & Vocational Skills Competition for Teenagers
 
 ---
 
 ### 📬 Contact Me
 
-* [Email](mailto:b8k.kanani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/behdad-kanani)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b8k.kanani@gmail.com)
+
+---
