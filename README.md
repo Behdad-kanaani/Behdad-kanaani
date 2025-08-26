@@ -32,7 +32,8 @@ I'm an **18-year-old developer from Iran** passionate about AI, Machine Learning
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)   
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 #### Tools & Platforms  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
@@ -71,6 +72,28 @@ Grid-based navigation with **Q-learning** and **Deep Q-Networks**.
     3rd place in National Technical & Vocational Skills Competition for Teenagers
 
 ---
+
+### ⚡ Core Competencies
+
+
+Designing and developing professional, user-friendly websites using WordPress and advanced UI/UX techniques.
+
+🤖 Neural Network Development (Basic → Advanced)
+
+Implementing neural networks from foundational to advanced levels and optimizing them for real-world projects.
+
+⚙️ Model Fine-Tuning for Specialized Tasks
+
+Customizing and fine-tuning models to tackle specialized tasks and meet specific project requirements.
+
+💪 High Perseverance & Strong Problem-Solving Skills
+
+Demonstrating persistence, tackling complex challenges, and delivering high-quality results on time.
+
+
+---
+
+
 
 ### 📬 Contact Me
 
