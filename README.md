@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Behdad Kanani!  
+# 👋 Hi, I'm Behdad Kanaani!  
 ## Digital Alchemist & AI Enthusiast  
 
 ![Profile Banner](https://img.shields.io/badge/Behdad_Kanani-Digital_Alchemist-blueviolet?style=for-the-badge&logo=appveyor)  
