@@ -9,7 +9,7 @@
 
 ### 👤 **About Me**
 
-Hi! I'm a **17-year-old AI Developer** from Iran, passionate about transforming abstract ideas into impactful, real-world solutions. I see myself as a "Digital Alchemist" who combines the power of technology with creative problem-solving.
+Hi! I'm a **18-year-old AI Developer** from Iran, passionate about transforming abstract ideas into impactful, real-world solutions. I see myself as a "Digital Alchemist" who combines the power of technology with creative problem-solving.
 
 * 🧠 **AI & Machine Learning**: Building algorithms that learn, adapt, and make intelligent decisions.
 * 👁️ **Computer Vision**: Unlocking the power of images and video data for insightful applications.
